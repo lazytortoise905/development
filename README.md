@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-`https://lazytortoise905.github.io/development-final`
+`https://lazytortoise905.github.io/development`
 
 ### Goal and Value of the Application
 The goal of this application is to provide Eagles fans a fun way to add their
